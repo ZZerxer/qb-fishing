@@ -82,6 +82,8 @@
 
 # Credits
 
+credits to https://github.com/Lionh34rt for the inspiration
+
 Made by Archy#9999
 
 Discord: https://discord.gg/xm99WNTYBg
