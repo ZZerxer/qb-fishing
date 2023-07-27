@@ -20,25 +20,25 @@ RegisterNetEvent('qb-fishing:server:ReceiveFish', function()
 
     if random >= 1 and random <= 30 then -- 30%
         item = 'fish'
-    elseif random >= 30 and random <= 37 then -- 7%
+    elseif random >= 30 and random <= 43 then -- 13%
         item = 'fish2'
-    elseif random >= 37 and random <= 44 then -- 7%
+    elseif random >= 43 and random <= 50 then -- 7%
         item = 'catfish'
-    elseif random >= 44 and random <= 51 then -- 7%
+    elseif random >= 50 and random <= 59 then -- 9%
         item = 'goldfish'
-    elseif random >= 51 and random <= 58 then -- 7%
+    elseif random >= 59 and random <= 69 then -- 10%
         item = 'largemouthbass'
-    elseif random >= 58 and random <= 65 then -- 7%
+    elseif random >= 69 and random <= 73 then -- 4%
         item = 'redfish'
-    elseif random >= 65 and random <= 72 then -- 7%
+    elseif random >= 73 and random <= 80 then -- 7%
         item = 'salmon'
-    elseif random >= 72 and random <= 79 then -- 7%
+    elseif random >= 80 and random <= 89 then -- 9%
         item = 'stingray'
-    elseif random >= 79 and random <= 86 then -- 7%
+    elseif random >= 95 and random <= 99 then -- 4%
         item = 'stripedbass'
-    elseif random >= 86 and random <= 93 then -- 7%
+    elseif random >= 99 and random <= 99.5 then -- 7%
         item = 'whale'
-    elseif random >= 93 and random <= 100 then -- 7%
+    elseif random >= 99.5 and random <= 100 then -- 7%
         item = 'whale2'
     end
 
